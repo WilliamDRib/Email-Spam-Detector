@@ -1,0 +1,3 @@
+O arquivo dos dados, está no Kaggle link abaixo:
+
+https://www.kaggle.com/code/prasadmeesala/spam-email-classification-naivebayes/input
